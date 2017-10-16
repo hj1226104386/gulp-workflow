@@ -1,0 +1,13 @@
+body{
+    height:100%;
+    width:100%;
+    background-color: pink;
+}
+h1{
+    width:100%;
+    font-style: normal;
+    color:orange;
+    font-size:16px;
+    text-align: center;
+
+}
