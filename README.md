@@ -8,7 +8,7 @@ gulp构建前端自动化工作流
 ## 使用方法（usage)
 - clone 
 > git clone https://github.com/hj1226104386/gulp-workflow.git
-- install
+- dependencies installation
 > npm install
 - run in terminal
 > gulp
